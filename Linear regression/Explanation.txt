@@ -1,0 +1,21 @@
+Linear regression is a statistical method used to model the linear relationship between a
+dependent variable and one or more independent variables.It is used to predict the value of
+the dependent variable based on the values of the independent variables.
+
+In a linear regression model, the dependent variable is typically represented by y and the 
+independent variables are represented by x1, x2, etc. The relationship between y and the x variables 
+is represented by a linear equation of the form y = b0 + b1*x1 + b2*x2 + ... + bn*xn,
+where b0, b1, b2, etc. are the coefficients that determine the slope and intercept of the regression line.
+
+To fit a linear regression model, we use a set of data points consisting of the x and y variables.
+The goal is to find the coefficients b0, b1, b2, etc. that best fit the data and minimize the prediction error. 
+This is typically done using an optimization algorithm such as gradient descent.
+
+Linear regression is a widely used method for predicting continuous variables and is particularly useful
+when the relationship between the dependent and independent variablesis approximately linear. 
+However, it is important to note that it may not always be appropriate to use linear regression, 
+especially if the relationship between the variables is more complex.
+
+
+
+
